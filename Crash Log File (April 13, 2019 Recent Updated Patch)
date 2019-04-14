@@ -1,0 +1,696 @@
+Initialize engine version: 5.6.6f2 (6bac21139588)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 750 Ti (ID=0x1380)
+    Vendor:   NVIDIA
+    VRAM:     1984 MB
+    Driver:   24.21.13.9764
+Begin MonoManager ReloadAssembly
+Platform assembly: B:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading B:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: B:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading B:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: B:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading B:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: B:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading B:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: B:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading B:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: B:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\ColossalManaged.dll (this message is harmless)
+Loading B:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\ColossalManaged.dll into Unity Child Domain
+Platform assembly: B:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading B:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: B:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\ICities.dll (this message is harmless)
+Loading B:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\ICities.dll into Unity Child Domain
+Platform assembly: B:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\PopsApiWrapper.dll (this message is harmless)
+Loading B:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\PopsApiWrapper.dll into Unity Child Domain
+- Completed reload, in  0.032 seconds
+Platform assembly: B:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: B:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+
+<RI> Input initialized.
+
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+
+UnloadTime: 0.791862 ms
+Game mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.193974 ms
+Machine ID: 47c6782e9a43f03220b3dd363f0ceb78731389cd
+Model: System Product Name (System manufacturer)
+OS: Windows 7 Service Pack 1 (6.1.7601) 64bit
+Language: English
+CPU: Intel(R) Core(TM) i5-2500K CPU @ 3.30GHz (4 core(s))
+System Memory: 8168
+Gfx Device: NVIDIA GeForce GTX 750 Ti
+Gfx Version: Direct3D 11.0 [level 11.0]
+Gfx Memory: 1984
+Gfx Shader Model: 50
+Game Version: 1.11.1-f4-steam-win
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+API: Steam Type: Steam
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting initial resolution to 1920 1080 True  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting vsync to 1  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raw Command Line: B:\Steam\steamapps\common\Cities_Skylines\Cities.exe
+Arguments: B:\Steam\steamapps\common\Cities_Skylines\Cities.exe
+  [CommandLine - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: B:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform assembly: B:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: B:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\System.Xml.dll (this message is harmless)
+Adding package 'Cliffside Bay' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\Cliffside Bay.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'System' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\CO.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Eden Valley2' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\Eden Valley2.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Foggy Hills' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\Foggy Hills.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Garden Rivers2' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\Garden Rivers2.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Grand River' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\Grand River.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'IN Green Peaks' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\IN Green Peaks.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'IN Marble Canyon' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\IN Marble Canyon.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'IN Pearl Bay' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\IN Pearl Bay.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'IN Twin Fjords' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\IN Twin Fjords.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'IN Woodgarden' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\IN Woodgarden.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Lavender Lake2' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\Lavender Lake2.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'MT Ferry Empire' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\MT Ferry Empire.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'MT Fix The Traffic' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\MT Fix The Traffic.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'MT Trains' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\MT Trains.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND Alpine Villages' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\ND Alpine Villages.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND By The Dam' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\ND By The Dam.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND Floodland' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\ND Floodland.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND Island Hopping' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\ND Island Hopping.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND Tornado Country' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\ND Tornado Country.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'NorthEurope1FINAL' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\NorthEurope1FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'NorthEurope2FINAL' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\NorthEurope2FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'NorthEurope3FINAL' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\NorthEurope3FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'PL Cavern Coast' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\PL Cavern Coast.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'PL Honu Island' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\PL Honu Island.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'PL Mountain Meadows' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\PL Mountain Meadows.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'PL Pine Rivers' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\PL Pine Rivers.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'PL Windfield' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\PL Windfield.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'SouthEurope1FINAL' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\SouthEurope1FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'SouthEurope2FINAL' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\SouthEurope2FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'SouthEurope3FINAL' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\SouthEurope3FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Tropical1FINAL' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\Tropical1FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Tropical2FINAL' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\Tropical2FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Tropical3FINAL' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\Tropical3FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Winter1Final' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\Winter1Final.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Winter2Final' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\Winter2Final.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Winter3Final' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\Winter3Final.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Winter4Final' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\Winter4Final.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Winter5Final' [B:\Steam\steamapps\common\Cities_Skylines\Files\Maps\Winter5Final.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Alpine Villages' [B:\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Alpine Villages.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'By The Dam' [B:\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\By The Dam.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'City of Gardens' [B:\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\City of Gardens.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Clean Up Crew' [B:\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Clean Up Crew.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Ferry Empire' [B:\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Ferry Empire.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Fix the Traffic' [B:\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Fix the Traffic.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Floodland' [B:\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Floodland.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Green Power' [B:\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Green Power.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Island Hopping' [B:\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Island Hopping.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Tornado Country' [B:\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Tornado Country.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Trains' [B:\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Trains.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '514344809' [B:\Steam\steamapps\workshop\content\255710\514344809\Silver River.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1397809315' [B:\Steam\steamapps\workshop\content\255710\1397809315\The Better Great Plan.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1649951257' [B:\Steam\steamapps\workshop\content\255710\1649951257\Flutland.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '523400581' [B:\Steam\steamapps\workshop\content\255710\523400581\Ago 3.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Verville Plains Layout' [cloud:Verville Plains Layout.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Verville Plains Lay (Dam Test)' [cloud:Verville Plains Lay (Dam Test).crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Verville Plains (Functional)' [cloud:Verville Plains (Functional).crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Verville Plains (Suburbs)' [cloud:Verville Plains (Suburbs).crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'NewCity' [cloud:NewCity.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'NewSave' [cloud:NewSave.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Veryville Plains (Fresh Roads)' [cloud:Veryville Plains (Fresh Roads).crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Veriville City Buildout 1' [cloud:Veriville City Buildout 1.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Veriville City Buildout 2' [cloud:Veriville City Buildout 2.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'NewSave' [C:\Users\Wes\AppData\Local\Colossal Order\Cities_Skylines\Saves\NewSave.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Veryville Plains ' [C:\Users\Wes\AppData\Local\Colossal Order\Cities_Skylines\Saves\Veryville Plains .crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Users\Wes\AppData\Local\Colossal Order\Cities_Skylines\userGameState.cgs  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-00000000155FDD90 (this message is harmless)
+Fallback handler could not load library B:/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-00000000155FDD90.dll
+Non platform assembly: data-000000000DCEC090 (this message is harmless)
+Fallback handler could not load library B:/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000000DCEC090.dll
+Non platform assembly: data-00000000155FF5A0 (this message is harmless)
+Fallback handler could not load library B:/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-00000000155FF5A0.dll
+Non platform assembly: data-00000000156007B0 (this message is harmless)
+Fallback handler could not load library B:/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-00000000156007B0.dll
+Non platform assembly: data-00000000156576F0 (this message is harmless)
+Fallback handler could not load library B:/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-00000000156576F0.dll
+Non platform assembly: data-0000000015659300 (this message is harmless)
+Fallback handler could not load library B:/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000015659300.dll
+Loading B:\Steam\steamapps\common\Cities_Skylines\Files\Mods\HardMode\HardMode.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0000000015686710 (this message is harmless)
+Fallback handler could not load library B:/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000015686710.dll
+Assembly HardMode0, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading B:\Steam\steamapps\common\Cities_Skylines\Files\Mods\UnlimitedMoney\UnlimitedMoney.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-00000000156885F0 (this message is harmless)
+Fallback handler could not load library B:/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-00000000156885F0.dll
+Assembly UnlimitedMoney2, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading B:\Steam\steamapps\common\Cities_Skylines\Files\Mods\UnlimitedOilAndOre\UnlimitedOilAndOre.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0000000015689890 (this message is harmless)
+Fallback handler could not load library B:/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000015689890.dll
+Assembly UnlimitedOilAndOre, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading B:\Steam\steamapps\common\Cities_Skylines\Files\Mods\UnlimitedSoil\UnlimitedSoil.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001568EAA0 (this message is harmless)
+Fallback handler could not load library B:/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001568EAA0.dll
+Assembly UnlimitedSoil, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading B:\Steam\steamapps\common\Cities_Skylines\Files\Mods\UnlockAll\UnlockAll.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001568FCB0 (this message is harmless)
+Fallback handler could not load library B:/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001568FCB0.dll
+Assembly UnlockAll, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading B:\Steam\steamapps\workshop\content\255710\411833858\ToggleTrafficLights.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-00000000156918C0 (this message is harmless)
+Fallback handler could not load library B:/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-00000000156918C0.dll
+Assembly ToggleTrafficLights, Version=0.12.1.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading locale: en
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Simulation started  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Initializing file IO
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Init complete
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Pushing task: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 2303.
+Total: 4.256602 ms (FindLiveObjects: 0.042770 ms CreateObjectMapping: 0.055120 ms MarkObjects: 4.151783 ms  DeleteObjects: 0.006626 ms)
+
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.272287 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2342.
+Total: 4.538829 ms (FindLiveObjects: 0.064156 ms CreateObjectMapping: 0.057830 ms MarkObjects: 4.399071 ms  DeleteObjects: 0.017168 ms)
+
+PopsApi: Popping task: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Pushing task: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Pushing task: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Pushing task: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Popping task: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Title: gdpr-popup-2018-05-17
+PopsApi: Popping task: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Title: privacy-policy-2018-11-02
+PopsApi: Popping task: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Title: Terms-of-use-2019-04-05
+PopsApi: Pushing task: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Assembly resolution failure. No assembly named '1.3.6.1.4.1.11129.2.4.2' was found.  [Serialization]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[TrafficLights][Message] Loaded: ToggleTrafficLights, Version=0.12.1.0, Culture=neutral, PublicKeyToken=null) at 4/13/2019 10:35:40 AM  [Modding]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+PopsApi: [CurlCallManager::update] FAIL '000000002C033460' http status was none of 100, 200, 304: 401
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: [CAccountLogInToken] Received errorCode:'Failure'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: [CAccountLogInToken] Server returned success code but JSON reply says failure. This might indicate subtle failure modes.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: [CAccountLogInToken] Received errorMessage:'Unauthorized'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Popping task: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Paradox Account session has expired!  [HTTP]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading simulation data from: Veriville City Buildout 2_Data  [Serialization]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1135.944946 ms
+
+Unloading 7703 unused Assets to reduce memory usage. Loaded Objects now: 4830.
+Total: 25.118832 ms (FindLiveObjects: 0.406021 ms CreateObjectMapping: 0.453009 ms MarkObjects: 11.347525 ms  DeleteObjects: 12.911673 ms)
+
+d3d11: failed to create buffer (target 0x2 mode 0 size 26544) [0x8007000E]
+d3d11: failed to create buffer (target 0x1 mode 0 size 24912) [0x8007000E]
+d3d11: failed to create buffer (target 0x1 mode 0 size 3936) [0x8007000E]
+d3d11: failed to create buffer (target 0x2 mode 0 size 55266) [0x8007000E]
+d3d11: failed to create buffer (target 0x1 mode 0 size 3640) [0x8007000E]
+d3d11: failed to create buffer (target 0x1 mode 0 size 2784) [0x8007000E]
+DynamicHeapAllocator allocation probe 1 failed - Could not get memory for large allocation 1049844.
+DynamicHeapAllocator allocation probe 2 failed - Could not get memory for large allocation 1049844.
+DynamicHeapAllocator allocation probe 3 failed - Could not get memory for large allocation 1049844.
+DynamicHeapAllocator allocation probe 4 failed - Could not get memory for large allocation 1049844.
+DynamicHeapAllocator out of memory - Could not get memory for large allocation 1049844!
+d3d11: failed to create buffer (target 0x2 mode 0 size 83610) [0x8007000E]
+d3d11: failed to create buffer (target 0x2 mode 0 size 17730) [0x8007000E]
+d3d11: failed to create buffer (target 0x1 mode 0 size 27144) [0x8007000E]
+d3d11: failed to create buffer (target 0x1 mode 0 size 3024) [0x8007000E]
+d3d11: failed to create buffer (target 0x1 mode 0 size 10272) [0x8007000E]
+d3d11: failed to create buffer (target 0x1 mode 0 size 3648) [0x8007000E]
+d3d11: failed to create buffer (target 0x2 mode 0 size 228) [0x8007000E]
+d3d11: failed to create buffer (target 0x1 mode 0 size 17160) [0x8007000E]
+d3d11: failed to create buffer (target 0x2 mode 0 size 5952) [0x8007000E]
+d3d11: failed to create buffer (target 0x1 mode 0 size 1584) [0x8007000E]
+d3d11: failed to create buffer (target 0x2 mode 0 size 204) [0x8007000E]
+d3d11: failed to create buffer (target 0x1 mode 0 size 17712) [0x8007000E]
+d3d11: failed to create buffer (target 0x1 mode 0 size 6048) [0x8007000E]
+d3d11: failed to create buffer (target 0x2 mode 0 size 60) [0x8007000E]
+d3d11: failed to create buffer (target 0x1 mode 0 size 6240) [0x8007000E]
+d3d11: failed to create buffer (target 0x1 mode 0 size 6552) [0x8007000E]
+d3d11: failed to create buffer (target 0x1 mode 0 size 3360) [0x8007000E]
+d3d11: failed to create buffer (target 0x2 mode 0 size 11982) [0x8007000E]
+d3d11: failed to create buffer (target 0x2 mode 0 size 6168) [0x8007000E]
+d3d11: failed to create buffer (target 0x1 mode 0 size 14016) [0x8007000E]
+d3d11: failed to create buffer (target 0x2 mode 0 size 852) [0x8007000E]
+d3d11: failed to create buffer (target 0x1 mode 0 size 1728) [0x8007000E]
+d3d11: failed to create buffer (target 0x2 mode 0 size 168) [0x8007000E]
+d3d11: failed to create buffer (target 0x2 mode 0 size 8076) [0x8007000E]
+Crash!!!
+SymInit: Symbol-SearchPath: '.;B:\Steam\steamapps\common\Cities_Skylines;B:\Steam\steamapps\common\Cities_Skylines;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Wes'
+OS-Version: 6.1.7601 (Service Pack 1) 0x100-0x1
+B:\Steam\steamapps\common\Cities_Skylines\Cities.exe:Cities.exe (000000013F070000), size: 23814144 (result: 0), SymType: '-nosymbols-', PDB: 'B:\Steam\steamapps\common\Cities_Skylines\Cities.exe', fileVersion: 5.6.6.44065
+C:\Windows\SYSTEM32\ntdll.dll:ntdll.dll (0000000076CF0000), size: 1699840 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\SYSTEM32\ntdll.dll', fileVersion: 6.1.7601.24408
+C:\Windows\system32\kernel32.dll:kernel32.dll (0000000076BD0000), size: 1175552 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\system32\kernel32.dll', fileVersion: 6.1.7601.24408
+C:\Windows\system32\KERNELBASE.dll:KERNELBASE.dll (000007FEFCB20000), size: 434176 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\system32\KERNELBASE.dll', fileVersion: 6.1.7601.24408
+C:\Windows\system32\HID.DLL:HID.DLL (000007FEFB250000), size: 45056 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\system32\HID.DLL', fileVersion: 6.1.7600.16385
+C:\Windows\system32\msvcrt.dll:msvcrt.dll (000007FEFCE80000), size: 651264 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\system32\msvcrt.dll', fileVersion: 7.0.7601.17744
+C:\Windows\system32\USER32.dll:USER32.dll (0000000076AD0000), size: 1024000 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\system32\USER32.dll', fileVersion: 6.1.7601.23594
+C:\Windows\system32\GDI32.dll:GDI32.dll (000007FEFE5B0000), size: 421888 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\system32\GDI32.dll', fileVersion: 6.1.7601.24404
+C:\Windows\system32\LPK.dll:LPK.dll (000007FEFD440000), size: 57344 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\system32\LPK.dll', fileVersion: 6.1.7601.24280
+C:\Windows\system32\USP10.dll:USP10.dll (000007FEFED10000), size: 831488 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\system32\USP10.dll', fileVersion: 1.626.7601.23894
+C:\Windows\system32\VERSION.dll:VERSION.dll (000007FEFBAA0000), size: 49152 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\system32\VERSION.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\ole32.dll:ole32.dll (000007FEFEDE0000), size: 2093056 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\system32\ole32.dll', fileVersion: 6.1.7601.24407
+C:\Windows\system32\RPCRT4.dll:RPCRT4.dll (000007FEFE620000), size: 1228800 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\system32\RPCRT4.dll', fileVersion: 6.1.7601.24408
+C:\Windows\system32\SHLWAPI.dll:SHLWAPI.dll (000007FEFD020000), size: 462848 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\system32\SHLWAPI.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\ADVAPI32.dll:ADVAPI32.dll (000007FEFE370000), size: 897024 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\system32\ADVAPI32.dll', fileVersion: 6.1.7601.24408
+C:\Windows\SYSTEM32\sechost.dll:sechost.dll (000007FEFD0A0000), size: 126976 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\SYSTEM32\sechost.dll', fileVersion: 6.1.7601.18869
+C:\Windows\system32\SHELL32.dll:SHELL32.dll (000007FEFD5E0000), size: 14200832 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\system32\SHELL32.dll', fileVersion: 6.1.7601.24383
+C:\Windows\system32\OPENGL32.dll:OPENGL32.dll (000007FEE85F0000), size: 1167360 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\GLU32.dll:GLU32.dll (000007FEF3000000), size: 184320 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\DDRAW.dll:DDRAW.dll (000007FEF11A0000), size: 987136 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\DCIMAN32.dll:DCIMAN32.dll (000007FEFA6C0000), size: 32768 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7601.24280
+C:\Windows\system32\SETUPAPI.dll:SETUPAPI.dll (000007FEFCCA0000), size: 1929216 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7601.17514
+C:\Windows\system32\CFGMGR32.dll:CFGMGR32.dll (000007FEFCBA0000), size: 221184 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7601.17514
+C:\Windows\system32\OLEAUT32.dll:OLEAUT32.dll (000007FEFE760000), size: 897024 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7601.24407
+C:\Windows\system32\DEVOBJ.dll:DEVOBJ.dll (000007FEFCAC0000), size: 106496 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\dwmapi.dll:dwmapi.dll (000007FEFA740000), size: 98304 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7601.18917
+C:\Windows\system32\WINMM.dll:WINMM.dll (000007FEF8B30000), size: 241664 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\WS2_32.dll:WS2_32.dll (000007FEFE450000), size: 315392 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7601.23451
+C:\Windows\system32\NSI.dll:NSI.dll (000007FEFE750000), size: 32768 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7601.23889
+C:\Windows\system32\IMM32.dll:IMM32.dll (000007FEFD390000), size: 188416 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\MSCTF.dll:MSCTF.dll (000007FEFE4A0000), size: 1085440 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7601.23915
+C:\Windows\system32\DNSAPI.dll:DNSAPI.dll (000007FEFBE00000), size: 372736 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7601.24168
+C:\Windows\system32\IPHLPAPI.DLL:IPHLPAPI.DLL (000007FEF9DD0000), size: 159744 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\system32\IPHLPAPI.DLL', fileVersion: 6.1.7601.17514
+C:\Windows\system32\WINNSI.DLL:WINNSI.DLL (000007FEF9DC0000), size: 45056 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7601.23889
+C:\Windows\system32\WINHTTP.dll:WINHTTP.dll (000007FEF7540000), size: 462848 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7601.24000
+C:\Windows\system32\webio.dll:webio.dll (000007FEF74D0000), size: 413696 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7601.23375
+B:\Steam\gameoverlayrenderer64.dll:gameoverlayrenderer64.dll (000007FEE8440000), size: 1724416 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 5.3.28.84
+C:\Windows\system32\PSAPI.DLL:PSAPI.DLL (0000000076E90000), size: 28672 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\api-ms-win-core-synch-l1-2-0.DLL:api-ms-win-core-synch-l1-2-0.DLL (000007FEFB8D0000), size: 12288 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 10.0.14393.2630
+B:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Mono\mono.dll:mono.dll (000007FEE8160000), size: 2998272 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 1.0.0.1
+C:\Windows\system32\MSWSOCK.dll:MSWSOCK.dll (000007FEFBF80000), size: 348160 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7601.23451
+C:\Windows\system32\CRYPTBASE.dll:CRYPTBASE.dll (000007FEFC6E0000), size: 61440 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7601.24408
+C:\Windows\System32\wship6.dll:wship6.dll (000007FEFBF70000), size: 28672 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\uxtheme.dll:uxtheme.dll (000007FEFAC40000), size: 352256 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\d3d11.dll:d3d11.dll (000007FEF62E0000), size: 1921024 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.2.9200.16570
+C:\Windows\system32\dxgi.dll:dxgi.dll (000007FEF64C0000), size: 380928 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\system32\dxgi.dll', fileVersion: 6.2.9200.16492
+C:\Windows\system32\WINTRUST.dll:WINTRUST.dll (0000000006740000), size: 241664 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\system32\WINTRUST.dll', fileVersion: 6.1.7601.24382
+C:\Windows\system32\CRYPT32.dll:CRYPT32.dll (000007FEFC890000), size: 1495040 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\system32\CRYPT32.dll', fileVersion: 6.1.7601.24382
+C:\Windows\system32\MSASN1.dll:MSASN1.dll (000007FEFC850000), size: 61440 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\system32\MSASN1.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\nvwgf2umx.dll:nvwgf2umx.dll (000007FEDE270000), size: 23408640 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\system32\nvwgf2umx.dll', fileVersion: 24.21.13.9764
+C:\Windows\system32\bcrypt.dll:bcrypt.dll (000007FEFC1C0000), size: 139264 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7601.24408
+C:\Windows\system32\CLBCatQ.DLL:CLBCatQ.DLL (000007FEFCF80000), size: 626688 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 2001.12.8530.16385
+C:\Windows\system32\wbem\wbemprox.dll:wbemprox.dll (000007FEF1AC0000), size: 61440 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\system32\wbem\wbemprox.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\wbemcomn.dll:wbemcomn.dll (000007FEF1DE0000), size: 548864 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7601.17514
+C:\Windows\system32\CRYPTSP.dll:CRYPTSP.dll (000007FEFBFE0000), size: 98304 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7601.24382
+C:\Windows\system32\rsaenh.dll:rsaenh.dll (000007FEFBCE0000), size: 290816 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\RpcRtRemote.dll:RpcRtRemote.dll (000007FEFC790000), size: 81920 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7601.17514
+C:\Windows\system32\wbem\wbemsvc.dll:wbemsvc.dll (000007FEF1850000), size: 81920 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\wbem\fastprox.dll:fastprox.dll (000007FEF1B50000), size: 925696 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\NTDSAPI.dll:NTDSAPI.dll (000007FEF1B10000), size: 159744 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\mscms.dll:mscms.dll (000007FEF8540000), size: 638976 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7601.23971
+C:\Windows\system32\USERENV.dll:USERENV.dll (000007FEFC870000), size: 122880 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7601.17514
+C:\Windows\system32\profapi.dll:profapi.dll (000007FEFC840000), size: 61440 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\icm32.dll:icm32.dll (000007FEF2FB0000), size: 270336 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7601.23971
+C:\Windows\system32\bcryptprimitives.dll:bcryptprimitives.dll (000007FEFC0F0000), size: 311296 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7601.23451
+C:\Windows\System32\MMDevApi.dll:MMDevApi.dll (000007FEFACA0000), size: 307200 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\System32\PROPSYS.dll:PROPSYS.dll (000007FEFACF0000), size: 1228800 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 7.0.7601.17514
+C:\Windows\system32\wdmaud.drv:wdmaud.drv (000007FEF4D50000), size: 241664 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7601.17514
+C:\Windows\system32\ksuser.dll:ksuser.dll (0000000071510000), size: 24576 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7601.19091
+C:\Windows\system32\AVRT.dll:AVRT.dll (000007FEFB260000), size: 36864 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\AUDIOSES.DLL:AUDIOSES.DLL (000007FEF4D00000), size: 323584 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7601.24382
+C:\Windows\system32\msacm32.drv:msacm32.drv (000007FEF5080000), size: 40960 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\MSACM32.dll:MSACM32.dll (000007FEF4CE0000), size: 98304 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\midimap.dll:midimap.dll (000007FEF5070000), size: 36864 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\xinput1_3.dll:xinput1_3.dll (0000000006A60000), size: 122880 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 9.18.944.0
+B:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Plugins\ColossalNative.dll:ColossalNative.dll (000007FEE7110000), size: 14389248 (result: 8), SymType: '-unknown-', PDB: ''
+B:\Steam\steamapps\common\Cities_Skylines\steam_api64.dll:steam_api64.dll (0000000063240000), size: 258048 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 3.27.76.74
+B:\Steam\steamclient64.dll:steamclient64.dll (000007FEDC030000), size: 17899520 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 5.3.28.84
+C:\Windows\system32\imagehlp.dll:imagehlp.dll (000007FEFECF0000), size: 102400 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7601.18288
+B:\Steam\tier0_s64.dll:tier0_s64.dll (000007FEE6D90000), size: 1511424 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 5.3.28.84
+B:\Steam\vstdlib_s64.dll:vstdlib_s64.dll (000007FEF1120000), size: 499712 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 5.3.28.84
+C:\Windows\system32\Secur32.dll:Secur32.dll (000007FEFC480000), size: 45056 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7601.24408
+C:\Windows\system32\SSPICLI.DLL:SSPICLI.DLL (000007FEFC650000), size: 151552 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7601.24408
+C:\Windows\System32\wshtcpip.dll:wshtcpip.dll (000007FEFB6C0000), size: 28672 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7600.16385
+B:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Plugins\pops_api.dll:pops_api.dll (000007FEDDDB0000), size: 4972544 (result: 8), SymType: '-unknown-', PDB: ''
+C:\Windows\system32\Normaliz.dll:Normaliz.dll (0000000076EA0000), size: 12288 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\rasadhlp.dll:rasadhlp.dll (000007FEF7910000), size: 32768 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\System32\fwpuclnt.dll:fwpuclnt.dll (000007FEF9C60000), size: 339968 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7601.24000
+C:\Windows\system32\dhcpcsvc.DLL:dhcpcsvc.DLL (000007FEF9BC0000), size: 98304 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (000007FEF9BA0000), size: 69632 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7601.17970
+C:\Windows\system32\credssp.dll:credssp.dll (000007FEFBC00000), size: 40960 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7601.24408
+C:\Windows\system32\dbghelp.dll:dbghelp.dll (000007FEF47D0000), size: 1200128 (result: 8), SymType: '-unknown-', PDB: '', fileVersion: 6.1.7601.17514
+
+========== OUTPUTING STACK TRACE ==================
+
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 000000013FA89722)
+0x000000013FA89722 (Cities) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 000000013FA86D29)
+0x000000013FA86D29 (Cities) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 000000013FA86D75)
+0x000000013FA86D75 (Cities) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 000000013F8A032B)
+0x000000013F8A032B (Cities) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 000000013F88E2EE)
+0x000000013F88E2EE (Cities) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 000000013F88E53D)
+0x000000013F88E53D (Cities) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 000000013F88E0E0)
+0x000000013F88E0E0 (Cities) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 000000013F4A8AD5)
+0x000000013F4A8AD5 (Cities) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 000000013F4913FF)
+0x000000013F4913FF (Cities) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 000000013F8B2B72)
+0x000000013F8B2B72 (Cities) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 000000013F6B289E)
+0x000000013F6B289E (Cities) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 000000013F69543C)
+0x000000013F69543C (Cities) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 000000013F694931)
+0x000000013F694931 (Cities) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 000000013F694C49)
+0x000000013F694C49 (Cities) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 000000013F751E7C)
+0x000000013F751E7C (Cities) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 0000000076BE555D)
+0x0000000076BE555D (kernel32) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 0000000076D4385D)
+0x0000000076D4385D (ntdll) 
+
+========== END OF STACKTRACE ===========
